@@ -1,0 +1,26 @@
+/** RESET **/
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.12em;
+    font-weight: 300;
+    color: #333;
+}
+h1,h2,h3{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+a{
+    color: #66d7d1;
+    text-decoration: none;
+  }
+  a:hover,
+  a:focus{
+    color: #ff637d;
+    text-decoration: none;
+  }
